@@ -1,10 +1,11 @@
 # 🖖🏽 Vida longa e próspera!
 
-👋🏽 Olá, sou <b>Fábio Domingos</b>, um designer e entusiasta em desenvolvimento web, atualmente focado em aprimorar minhas habilidades em Front-end. Estou concluindo o curso de Desenvolvimento de Layout em Front-end na plataforma Mentorama.
+👋🏽 Olá, sou <b>Fábio Domingos</b>, um Webdesigner e entusiasta em desenvolvimento web, atualmente focado em aprimorar minhas habilidades em Front-end.
 
 ## 🙋🏽‍♂️ Sobre Mim:
 
 - 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript e explorando suas diversas aplicações no desenvolvimento web.
+- 👨🏽‍🎓 Estou concluindo o curso de Desenvolvimento de Layout em Front-end na plataforma Mentorama.
 - 💼 Estou aberto a oportunidades de colaboração em novos projetos.
 
 ## 📊 Estatísticas do GitHub:
