@@ -5,7 +5,7 @@
 ## 🙋🏽‍♂️ Sobre Mim:
 
 - 🌱 Atualmente estou aprendendo HTML5, CSS3 e JavaScript e explorando suas diversas aplicações no desenvolvimento web.
-- 👨🏽‍🎓 Estou concluindo o curso de Desenvolvimento de Layout em Front-end na plataforma Mentorama.
+- 👨🏽‍🎓 Estou concluindo o Curso de Desenvolvimento de Layout em Front-end na plataforma Mentorama.
 - 💼 Estou aberto a oportunidades de colaboração em novos projetos.
 
 ## 📊 Minhas Estatísticas do GitHub:
