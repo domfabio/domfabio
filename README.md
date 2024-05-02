@@ -8,7 +8,7 @@
 - 👨🏽‍🎓 Estou concluindo o curso de Desenvolvimento de Layout em Front-end na plataforma Mentorama.
 - 💼 Estou aberto a oportunidades de colaboração em novos projetos.
 
-## 📊 Estatísticas do GitHub:
+## 📊 Minhas Estatísticas do GitHub:
 
 <div>
   <a href="https://github.com/domfabio">
