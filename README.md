@@ -18,8 +18,8 @@
 
 ## 🏆 Projetos em Destaque:
 
-- [Design Systems](https://github.com/domfabio/Projeto-Final-Website-Responsivo-Design-Systems) <h3>Website Responsivo.<h3/>
-- [Casa La Luna](https://github.com/domfabio/Website-Responsivo-Casa-La-Luna) <h3>Website Responsivo.<h3/>
+- [Design Systems](https://github.com/domfabio/Projeto-Final-Website-Responsivo-Design-Systems) Website Responsivo.
+- [Casa La Luna](https://github.com/domfabio/Website-Responsivo-Casa-La-Luna) Website Responsivo.
 
 ## 🚀 Ferramentas e Tecnologias:
 
