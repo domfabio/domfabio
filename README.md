@@ -1,6 +1,6 @@
 # 🖖🏽 Vida longa e próspera!
 
-👋🏽 Olá, sou <b>Fábio Domingos</b>, um Webdesigner e entusiasta em desenvolvimento web, atualmente focado em aprimorar minhas habilidades em Front-end.
+👋🏽 Olá, sou <b>Fábio Domingos</b>, um Web Designer e entusiasta em desenvolvimento web, atualmente focado em aprimorar minhas habilidades em Front-end.
 
 ## 🙋🏽‍♂️ Sobre Mim:
 
