@@ -4,7 +4,7 @@
 
 ## 🙋🏽‍♂️ Sobre Mim:
 
-- 🌱 Atualmente estou estudando JavaScript pela Mentorama e explorando suas diversas aplicações no desenvolvimento web.
+- 🌱 Atualmente estou estudando Javascript e TypeScript (Full Stack) pela Udemy.
 - 👨🏽‍🎓 Graduado em Marketing Digital pela Estácio, além de Web Design e Front-end pela Mentorama.
 - 💼 Estou aberto a oportunidades de colaboração em novos projetos.
 
