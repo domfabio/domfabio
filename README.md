@@ -4,7 +4,7 @@
 
 ## 🙋🏽‍♂️ Sobre Mim:
 
-- 🌱 Atualmente estou estudando Javascript, TypeScript, React.js e Next.js pela Udemy.
+- 🌱 Atualmente estou estudando Javascript, TypeScript, React e Next pela Udemy.
 - 👨🏽‍🎓 Graduado em Marketing Digital pela Estácio, além Técnico em Web Design e Front-end pela Mentorama.
 - 💼 Estou aberto a oportunidades de colaboração em novos projetos.
 
