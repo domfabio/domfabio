@@ -8,6 +8,12 @@
 - 👨🏽‍🎓 Graduado em Marketing Digital pela Estácio, além Técnico em Web Design e Front-end pela Mentorama.
 - 💼 Estou aberto a oportunidades de colaboração em novos projetos.
 
+###🏆 UX Design com Certificado Profissional Google
+
+[![Certificado Profissional Google](https://images.credly.com/size/680x680/images/7f90b198-4603-44e4-b5ab-13bd354df3e4/image.png)](https://www.credly.com/badges/957392b2-a59d-41d8-ba86-3982c0465756/print)
+
+[Certificado Profissional Google - Verificado pela Coursera](https://www.credly.com/badges/957392b2-a59d-41d8-ba86-3982c0465756/print)
+
 ## 📊 Minhas Estatísticas do GitHub:
 
 <div>
