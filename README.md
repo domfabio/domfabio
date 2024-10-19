@@ -5,7 +5,7 @@
 ## 🙋🏽‍♂️ Sobre Mim:
 
 - 🌱 Atualmente estou estudando Javascript, TypeScript e React.js pela Udemy.
-- 👨🏽‍🎓 Graduado em Marketing Digital pela Estácio, além Técnico em UX/UI, Web Design e Front-end pela Mentorama.
+- 👨🏽‍🎓 Graduado em Marketing Digital, além possuir certificações técnicas em: UX/UI, Web Design e Front-end.
 - 🏆 [UX Designer com Certificação Profissional Google](https://www.credly.com/badges/957392b2-a59d-41d8-ba86-3982c0465756/print)🔗
 - 💼 Estou aberto a oportunidades de colaboração em novos projetos.
 
