@@ -19,7 +19,7 @@
 
 ## 🏆 Projetos em Destaque:
 
-- [Gerador de Box Shadow (JS)](https://github.com/domfabio/Box-Shadow-Generator)
+- [Gerador de Box Shadow](https://github.com/domfabio/Box-Shadow-Generator) Aplicação em JS.
 - [Design Systems](https://github.com/domfabio/Projeto-Final-Website-Responsivo-Design-Systems) Website Responsivo.
 
 ## 🚀 Ferramentas e Tecnologias:
