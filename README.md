@@ -1,6 +1,6 @@
 # 🖖🏽 Vida longa e próspera!
 
-👋🏽 Olá, sou <b>Fábio Domingos</b>, um Web Designer e entusiasta em desenvolvimento web.
+👋🏽 Olá, sou <b>Fábio Domingos</b>, um entusiasta em desenvolvimento web.
 
 ## 🙋🏽‍♂️ Sobre Mim:
 
