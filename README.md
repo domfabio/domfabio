@@ -5,7 +5,7 @@
 ## 🙋🏽‍♂️ Sobre Mim:
 
 - 🌱 Aprimorando os conhecimentos em Javascript, TypeScript, React.JS e Tailwind CSS.
-- 👨🏽‍🎓 Graduado: Superior de Tecnologia em Marketing Digital.
+- 👨🏽‍🎓 Graduado em Superior de Tecnologia Marketing Digital.
 - 🎓 [Formação em Desenvolvimento Front-End | Santander Tech+ | Ada Tech](https://ada.tech/certificado?code=09b70acb-c625-8eec-615b-d84ca1744ffe)🔗
 - 🏆 [Google Certificação Profissional UX Design](https://www.credly.com/badges/957392b2-a59d-41d8-ba86-3982c0465756/print)🔗
 - 💼 Estou aberto a oportunidades de colaboração em novos projetos.
