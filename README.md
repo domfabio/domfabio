@@ -2,7 +2,7 @@
 
 👋🏽 Olá, sou <b>Fábio Domingos</b>, um entusiasta em desenvolvimento web.
 
-## 🙋🏽‍♂️ Sobre Mim:
+## 🙋🏽‍♂️ Sobre Mim
 
 - 😍 Apaixonado por tecnologia!
 - 🌱 Aprimorando os conhecimentos em Javascript, TypeScript, React.JS e Tailwind CSS.
@@ -11,7 +11,7 @@
 - 🏆 [Google Certificação Profissional UX Design](https://www.credly.com/badges/957392b2-a59d-41d8-ba86-3982c0465756/print)🔗
 - 💼 Estou aberto a oportunidades de colaboração em novos projetos.
 
-## 📊 Minhas Estatísticas do GitHub:
+## 📊 Minhas Estatísticas do GitHub
 
 <div>
   <a href="https://github.com/domfabio">
@@ -19,13 +19,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=domfabio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-## 🏆 Projetos em Destaque:
+## 🏆 Projetos em Destaque
 
 - [Estúdio Uni Design](https://github.com/domfabio/Site-Blog-UniDesign) Website/Blog Responsivo.
 - [Gerador de Box Shadow](https://github.com/domfabio/Box-Shadow-Generator) Aplicação em JS.
 - [Design Systems](https://github.com/domfabio/Projeto-Final-Website-Responsivo-Design-Systems) Website Responsivo.
 
-## 🚀 Ferramentas e Tecnologias:
+## 🚀 Linguagens e Tecnologias
 
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -34,9 +34,6 @@
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </div>
 
 ## 🗃️ Frameworks e Bibliotecas
@@ -49,15 +46,13 @@
 
 ## 🗃️ Ferramentas & Workflow
 <div>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
 <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
+<img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </div>
 
 
