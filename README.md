@@ -2,6 +2,8 @@
 
 👋🏽 Olá, sou <b>Fábio Domingos</b>, um entusiasta em desenvolvimento web.
 
+---
+
 ## 🙋🏽‍♂️ Sobre Mim
 
 - 😍 Apaixonado por tecnologia!
@@ -11,6 +13,8 @@
 - 🏆 [Google | Coursera | Certificação Profissional UX Design](https://www.credly.com/badges/957392b2-a59d-41d8-ba86-3982c0465756/print)🔗
 - 💼 Estou aberto a oportunidades de colaboração em novos projetos.
 
+--- 
+
 ## 📊 Minhas Estatísticas do GitHub
 
 <div>
@@ -19,11 +23,15 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=domfabio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
+---
+
 ## 🏆 Projetos em Destaque
 
 - [Estúdio Uni Design](https://github.com/domfabio/Site-Blog-UniDesign) Website/Blog Responsivo.
 - [Gerador de Box Shadow](https://github.com/domfabio/Box-Shadow-Generator) Aplicação em JS.
 - [Design Systems](https://github.com/domfabio/Projeto-Final-Website-Responsivo-Design-Systems) Website Responsivo.
+
+---
 
 ## 🚀 Linguagens e Tecnologias
 <div>
@@ -60,7 +68,7 @@
 <img src="https://img.shields.io/badge/ClickUp-7F5FFF?style=for-the-badge&logo=clickup&logoColor=white"/>
 </div>
 
-
+---
 
 ## 📬 Contatos e Networking
 <div> 
